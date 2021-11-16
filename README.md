@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on machine learning
-- 📫 How to reach me via mail
+- 📫 You can reach me via mail
 
 <!---
 Sherstyankin/Sherstyankin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
