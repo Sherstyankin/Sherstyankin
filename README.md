@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sherstyankin
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on machine learning
+- 👀 I’m interested in Backend development
+- 🌱 I’m currently learning Java
 - 📫 You can reach me via mail
 
 <!---
